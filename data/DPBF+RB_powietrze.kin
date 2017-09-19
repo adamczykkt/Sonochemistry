@@ -1,0 +1,9 @@
+label = DPBF+RB EtOH/H2O ok. 1:1 powietrze
+legend =  DPBF+RB powietrze
+data = 29.06.2017
+lambda = 411.14
+0	0.7791
+5	0.64135
+10	0.53045
+15	0.43512
+20	0.35254

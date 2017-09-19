@@ -1,0 +1,8 @@
+label = DPBF EtOH/H2O ok. 1:1 odgazowany
+legend =  DPBF odgazowany
+date = 30.06.2017
+lambda = 411.44
+0	0.7178
+5	0.37478
+10	0.23131
+15	0.14054

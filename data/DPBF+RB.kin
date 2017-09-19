@@ -1,0 +1,9 @@
+label = DPBF+RB EtOH/H2O ok. 1:1
+legend =  DPBF+RB
+data = 30.06.2017
+lambda = 411.44
+0	0.7324
+5	0.541
+10	0.40675
+15	0.29289
+20	0.1995

@@ -1,0 +1,9 @@
+label = DPBF EtOH/H2O ok. 1:1 N2
+legend =  DPBF azot
+date = 29.06.2017
+lambda = 411.14
+0	0.83548
+5	0.69648
+10	0.5769
+15	0.4794
+20	0.40275
